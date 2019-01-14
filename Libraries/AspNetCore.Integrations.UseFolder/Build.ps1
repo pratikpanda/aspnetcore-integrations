@@ -10,6 +10,6 @@ if(Test-Path .\artifacts) { Remove-Item .\artifacts -Force -Recurse }
 
 dotnet restore
 
-dotnet build .\Libraries\AspNetCore.Integrations.UseFolder  --configuration Release
+dotnet build --configuration Release
 
 dotnet pack .\Libraries\AspNetCore.Integrations.UseFolder -c Release -o .\artifacts
