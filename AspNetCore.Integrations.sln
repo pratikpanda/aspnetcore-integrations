@@ -11,8 +11,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{C266
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore.Integrations.UseFolder", "Libraries\AspNetCore.Integrations.UseFolder\AspNetCore.Integrations.UseFolder.csproj", "{215B2F7A-BDA3-4674-9C85-2B7971E1045E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore.Integrations.UseFolder.Web", "Samples\AspNetCore.Integrations.UseFolder.Web\AspNetCore.Integrations.UseFolder.Web.csproj", "{EC9C9409-E7A5-474E-9255-A97C87E9DF51}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,16 +21,12 @@ Global
 		{215B2F7A-BDA3-4674-9C85-2B7971E1045E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{215B2F7A-BDA3-4674-9C85-2B7971E1045E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{215B2F7A-BDA3-4674-9C85-2B7971E1045E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EC9C9409-E7A5-474E-9255-A97C87E9DF51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EC9C9409-E7A5-474E-9255-A97C87E9DF51}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EC9C9409-E7A5-474E-9255-A97C87E9DF51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{215B2F7A-BDA3-4674-9C85-2B7971E1045E} = {A1967DB6-00EC-4175-95E4-9AA769BCEB25}
-		{EC9C9409-E7A5-474E-9255-A97C87E9DF51} = {C266A66A-AFB2-46B9-8C12-5ADCF8F0781C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8BB7B005-462D-4FB3-8127-23A70A06162A}
