@@ -1,4 +1,4 @@
-﻿<#
+<#
 .SYNOPSIS
 	1. If found, clear out any existing artifacts.
     2. Restore the required NuGet packages.
