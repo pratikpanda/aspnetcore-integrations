@@ -19,7 +19,3 @@ Please contribute to this project, in the form of bug fixes, enhancements or new
 | Name | Description | NuGet | Downloads |
 | ------ | ------ | ------ | ------ |
 | [Use Folder](Libraries/AspNetCore.Integrations.UseFolder) | Component to serve static files from any folder in ASP.NET Core. | [![NuGet](https://img.shields.io/nuget/vpre/aspnetcore.integrations.usefolder.svg)](https://www.nuget.org/packages/aspnetcore.integrations.usefolder) | [![NuGet](https://img.shields.io/nuget/dt/aspnetcore.integrations.usefolder.svg)](https://www.nuget.org/packages/aspnetcore.integrations.usefolder) |
-
-[![NuGet](https://img.shields.io/nuget/vpre/aspnetcore.integrations.usefolder.svg)](https://www.nuget.org/packages/aspnetcore.integrations.usefolder)
- 
-[![NuGet](https://img.shields.io/nuget/dt/aspnetcore.integrations.usefolder.svg)](https://www.nuget.org/packages/aspnetcore.integrations.usefolder)
