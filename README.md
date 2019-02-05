@@ -16,6 +16,10 @@ Each component is available individually from NuGet. See each individual compone
 Please contribute to this project, in the form of bug fixes, enhancements or new components. Please fork the repo and raise a PR if you have something you would like me to review for inclusion.  If you want to discuss an idea first then the best way to do this right now is to raise a GitHub issue.
 
 ## Extensions
-| Name | Description | NuGet |
-| ------ | ------ | ------ |
-| [Use Folder](Libraries/AspNetCore.Integrations.UseFolder) | Component to serve static files from any folder in ASP.NET Core. | [![NuGet version](https://img.shields.io/badge/NuGet-1.0.0-blue.svg)](https://www.nuget.org/packages/AspNetCore.Integrations.UseFolder/) |
+| Name | Description | NuGet | Downloads |
+| ------ | ------ | ------ | ------ |
+| [Use Folder](Libraries/AspNetCore.Integrations.UseFolder) | Component to serve static files from any folder in ASP.NET Core. | [![NuGet](https://img.shields.io/nuget/vpre/aspnetcore.integrations.usefolder.svg)](https://www.nuget.org/packages/aspnetcore.integrations.usefolder) | [![NuGet](https://img.shields.io/nuget/dt/aspnetcore.integrations.usefolder.svg)](https://www.nuget.org/packages/aspnetcore.integrations.usefolder) |
+
+[![NuGet](https://img.shields.io/nuget/vpre/aspnetcore.integrations.usefolder.svg)](https://www.nuget.org/packages/aspnetcore.integrations.usefolder)
+ 
+[![NuGet](https://img.shields.io/nuget/dt/aspnetcore.integrations.usefolder.svg)](https://www.nuget.org/packages/aspnetcore.integrations.usefolder)
